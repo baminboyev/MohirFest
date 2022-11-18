@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    background-color: #161D25;
+}
+.root{
+    background-color: #24303D;
+
+}
+.section-image{
+    display: inline-block;
+    background-color: #24303D;
+    width: 10px;
+}
+.informations{
+    background-color: #24303D;
+    display: inline-block;
+    font-size: 17px;
+    line-height: 2;
+    padding-left: 100px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    list-style: none;
+    position:relative;
+    bottom: 80px;
+}
+.starts{
+    background-color: #24303D;
+    display: inline;
+
+}
+.star{
+    background-color: #24303D;
+    background: #ECC22B;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.title-movie{
+    background-color: #24303D;
+}
+.staa{
+    background-color: #24303D;
+}
+.youtube{
+    padding: 10px;
+
+}
